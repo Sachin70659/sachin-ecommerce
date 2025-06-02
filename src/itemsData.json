@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "image": "https://media.istockphoto.com/id/870380888/photo/paddy-field-closeup.webp?a=1&b=1&s=612x612&w=0&k=20&c=7VxvFtntbPuCS6lkp8BF8kaRMZTyUrSVTL3BIeO8kjs=",
+    "name": "धान (चावल) - Paddy (Rice)",
+    "category": "Kharif",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 2,
+    "image": "https://media.istockphoto.com/id/2076061107/photo/corns.webp?a=1&b=1&s=612x612&w=0&k=20&c=mO0GOBKFR_GHDtK9dCGasdCDMQqjqzv6EPxa1hnPT-U=",
+    "name": "मक्का - Maize",
+    "category": "Kharif",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 3,
+    "image": "https://media.istockphoto.com/id/1761103112/photo/pearl-millet-grains-in-a-glass-bowl-with-label-on-it-filled-to-the-brim.jpg?s=612x612&w=0&k=20&c=qBEVf9QhzUrL2LWd4lFQxHECdgwk1nEmM0JlbIUcLZs=",
+    "name": "बाजरा - Pearl Millet",
+    "category": "Kharif",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 4,
+    "image": "https://media.istockphoto.com/id/1281367970/photo/mung-bean-in-a-bowl-with-mung-bean-alphabet.webp?a=1&b=1&s=612x612&w=0&k=20&c=K39JplsUBUJsvNLm1V2SPNpYStV9ykSnKS2uVDUP--A=",
+    "name": "मूंग - Mung Bean",
+    "category": "Kharif",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 5,
+    "image": "https://media.istockphoto.com/id/1204147408/photo/peanut-in-a-shell-texture.webp?a=1&b=1&s=612x612&w=0&k=20&c=oteS6ENTxxTNfiPtGWlXsXee9ihUesCgvu-UA63emWk=",
+    "name": "मूंगफली - Groundnut",
+    "category": "Kharif",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 6,
+    "image": "https://media.istockphoto.com/id/2162192355/photo/sugar-cane-stalks-with-leaves-in-the-field-of-a-farm.webp?a=1&b=1&s=612x612&w=0&k=20&c=ICWU9BX22LmZW7UDRQtW76fE5Nj7dtbKQhMTaaU4V-Q=",
+    "name": "गन्ना - Sugarcane",
+    "category": "Kharif",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 7,
+    "image": "https://media.istockphoto.com/id/459270465/photo/cotton.webp?a=1&b=1&s=612x612&w=0&k=20&c=hYy4lWD3TZnYysrvZAA7g5axhiI2Kb7ZgA7tmoz6VGA=",
+    "name": "कपास - Cotton",
+    "category": "Kharif",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 8,
+    "image": "https://media.istockphoto.com/id/469554961/photo/close-up-rotten-soybean-seed.webp?a=1&b=1&s=612x612&w=0&k=20&c=V0SUm7XtzFeIYEejXgu5jKyXhddvcTwDxNCmtZaLazI=",
+    "name": "सोयाबीन - Soybean",
+    "category": "Kharif",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 9,
+    "image": "https://media.istockphoto.com/id/139859967/photo/white-bean.webp?a=1&b=1&s=612x612&w=0&k=20&c=Gh-z-RbhS1tqwNzNCAWlQdqfSqI1VTn-NPE7BHRAh0U=",
+    "name": "उड़द - Black Gram",
+    "category": "Kharif",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 10,
+    "image": "https://plus.unsplash.com/premium_photo-1745600424936-415443c7a8d7?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8JUUwJUE0JTk3JUUwJUE1JTg3JUUwJUE0JUI5JUUwJUE1JTgyJUUwJUE0JTgxJTIwKFdoZWF0KXxlbnwwfHwwfHx8MA%3D%3D",
+    "name": "गेहूँ (Wheat)",
+    "category": "Rabi",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 11,
+    "image": "https://media.istockphoto.com/id/1014182360/photo/texture-with-of-barley-malt-for-beer-pale-ale-pilsen.jpg?s=612x612&w=0&k=20&c=2xTAPcwgHXJym1CmsPMCaj7smxaSrvX3shTULlEhTCM=",
+    "name": "जौ (Barley)",
+    "category": "Rabi",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 12,
+    "image": "https://plus.unsplash.com/premium_photo-1675237625824-40a9c6400ad8?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2hpY2twZWF8ZW58MHx8MHx8fDA%3D",
+    "name": "चना (Chickpea)",
+    "category": "Rabi",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 13,
+    "image": "https://media.istockphoto.com/id/172437645/photo/green-peas.webp?a=1&b=1&s=612x612&w=0&k=20&c=X1HCe38n5BoN2eeGmogTUlUcyQzwn-PqQk9PPqeEDz4=",
+    "name": "मटर (Pea)",
+    "category": "Rabi",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=600&q=80",
+    "name": "मसूरी (Masoora)",
+    "category": "Rabi",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 15,
+    "image": "https://media.istockphoto.com/id/1365597633/photo/black-mustard-seeds.webp?a=1&b=1&s=612x612&w=0&k=20&c=vNsPaz97KRj7fvDQ09-Cnu-qOjcuTn04_RNtlomeui8=",
+    "name": "सरसों (Mustard)",
+    "category": "Rabi",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 16,
+    "image": "https://media.istockphoto.com/id/464381355/photo/raw-potato.webp?a=1&b=1&s=612x612&w=0&k=20&c=GbW3YiBb9worsK-cvNrArryUssFBGODb-PeeYEdF9B8=",
+    "name": "आलू (Potato)",
+    "category": "Rabi",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 17,
+    "image": "https://media.istockphoto.com/id/1391657458/photo/grains-of-flaxseed-are-poured-into-the-wooden-bowl.webp?a=1&b=1&s=612x612&w=0&k=20&c=Ms9ZSh70lMzlM9FBfLTTwWZKkKnzvRWpzgoMWTxzCLA=",
+    "name": "अलसी (Flaxseed)",
+    "category": "Rabi",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 18,
+    "image": "https://media.istockphoto.com/id/184108759/photo/tobacco-plant.webp?a=1&b=1&s=612x612&w=0&k=20&c=q8QdD5L-Di8iVBqJmHNLZ2nJup8Qu-pNyeUjnmShLNs=",
+    "name": "तम्बाकू (Tobacco)",
+    "category": "Rabi",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 19,
+    "image": "https://media.istockphoto.com/id/690404352/photo/spanish-onions-on-black-slate-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=lg6c2Ih0b_7gLMZEWr5wAAxCJBccHzF6EQdLDS4B39s=",
+    "name": "Onion (प्याज)",
+    "category": "Rabi",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 20,
+    "image": "https://plus.unsplash.com/premium_photo-1675040830254-1d5148d9d0dc?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2FudGFsb3VwZXxlbnwwfHwwfHx8MA%3D%3D",
+    "name": "खरबूजा (Cantaloupe)",
+    "category": "Zaid",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 21,
+    "image": "https://media.istockphoto.com/id/157198799/photo/watermelons.webp?a=1&b=1&s=612x612&w=0&k=20&c=DvL6g3mT52P4An5LUC8f9hPX-mVZy3BhPPQPymzukyE=",
+    "name": "तरबूज (Watermelon)",
+    "category": "Zaid",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 22,
+    "image": "https://media.istockphoto.com/id/1045761832/photo/fresh-green-cucumber-salad.webp?a=1&b=1&s=612x612&w=0&k=20&c=GQHbGP0Lhv3ZduUGtfvDBemBjIk_WNlvli-La6AiwyQ=",
+    "name": "खीरा (Cucumber)",
+    "category": "Zaid",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 23,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=600&q=80",
+    "name": "ककड़ी (Cucumber)",
+    "category": "Zaid",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 24,
+    "image": "https://media.istockphoto.com/id/507180560/photo/okras-with-raw-okra-in-farm.webp?a=1&b=1&s=612x612&w=0&k=20&c=OU1kBLIdDJMy9WeGGmS9xUYS8w6WVVzRE2ZyGhVRCu8=",
+    "name": "भिंडी (Lady's Finger)",
+    "category": "Zaid",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 25,
+    "image": "https://media.istockphoto.com/id/2170647846/photo/taroroot-taro-root-tuber-arvi-arbi-starchy-fresh-brown-vegetable-heap-closeup-grocery-food.webp?a=1&b=1&s=612x612&w=0&k=20&c=S3LkSf6_5wSTtF_LKLEg_VmoA94FIvNlvWkmyvJsBrY=",
+    "name": "अरबी (Arbi)",
+    "category": "Zaid",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 26,
+    "image": "https://media.istockphoto.com/id/1407106758/photo/fresh-organic-bottle-gourd-from-farm-close-up-from-different-angle.webp?a=1&b=1&s=612x612&w=0&k=20&c=gPz34Fo64MAN5dDMMBwzn1vXigHtESPhx1MpUKbBkU4=",
+    "name": "लौकी (Bottle Gourd)",
+    "category": "Zaid",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 27,
+    "image": "https://media.istockphoto.com/id/1138440046/photo/closed-up-dried-red-chili-bangkok-fresh-market.webp?a=1&b=1&s=612x612&w=0&k=20&c=fWQKHr2RysHlzkosBi8JbItTSqIg6XOL-T2c43gx7iE=",
+    "name": "मिर्च (Chili)",
+    "category": "Zaid",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 28,
+    "image": "https://media.istockphoto.com/id/1310279351/photo/macro-close-up-of-organic-green-gram-or-whole-green-moong-dal-on-a-white-ceramic-soup-spoon.webp?a=1&b=1&s=612x612&w=0&k=20&c=j4IgXpiudbu4Opcm1YXvGKrGHe9yRMoSnEwyS5c9jPA=",
+    "name": "मूंग (Green Gram)",
+    "category": "Zaid",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 29,
+    "image": "https://media.istockphoto.com/id/182776799/photo/field-of-sunflowers.webp?a=1&b=1&s=612x612&w=0&k=20&c=XuO2nKFUjTkhfw4i7h76troCSyXXGNwdzk-dqEly2RY=",
+    "name": "सूरजमुखी (Sunflower)",
+    "category": "Zaid",
+    "price": "12₹",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  }
+]
